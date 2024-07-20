@@ -1,5 +1,10 @@
+import { Layout } from "../../componemts/layout/layout";
+
+
+
 function Favorites(): JSX.Element {
     return (
+      <Layout>
       <main className="page__main page__main--favorites">
         <div className="page__favorites-container container">
           <section className="favorites">
@@ -166,6 +171,7 @@ function Favorites(): JSX.Element {
           </section>
         </div>
       </main>
+      </Layout>
     );
   }
   

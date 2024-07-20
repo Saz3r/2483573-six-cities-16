@@ -1,5 +1,8 @@
+import { Layout } from "../../componemts/layout/layout";
+
 function Offer(): JSX.Element {
     return (
+      <Layout>
       <main className="page__main page__main--offer">
         <section className="offer">
           <div className="offer__gallery-container container">
@@ -415,6 +418,7 @@ function Offer(): JSX.Element {
           </section>
         </div>
       </main>
+      </Layout>
     );
   }
   
