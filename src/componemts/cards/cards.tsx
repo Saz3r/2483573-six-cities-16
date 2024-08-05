@@ -27,7 +27,7 @@ export interface CardsProps {
 
 function Card({ data }: { data: CardsProps}): JSX.Element {
   return (
-    <Link to={`${RoutesValues.OFFERS}/${data.id}`}>
+    <Link to={`${RoutesValues.OFFER}/${data.id}`}>
       <article className="cities__card place-card">
         {data.isPremium && (
           <div className="place-card__mark">

@@ -1,6 +1,6 @@
 export const OFFERS = [
   {
-    'id': '6af6f711-c28d-4121-82cd-e0b462a27f00',
+    'id': '6af6f711-c28d-4121-82cd-e0b2a27f00',
     'title': 'Beautiful & luxurious studio at great location',
     'type': 'apartment',
     'price': 120,
@@ -36,7 +36,7 @@ export const OFFERS = [
     'maxAdults': 4
   },
   {
-    'id': '6af6f711-c28d-4121-82cd-e0b462a27f00',
+    'id': '6af6f711-c28d-21-82cd-e0b462a27f00',
     'title': 'Beautiful & cold location',
     'type': 'apartment',
     'price': 150,
@@ -72,7 +72,7 @@ export const OFFERS = [
     'maxAdults': 4
   },
   {
-    'id': '6af6f711-c28d-4121-82cd-e0b462a27f00',
+    'id': '6af6f711-c284121-82cd-e0b462a27f00',
     'title': 'Beautiful & amazing location',
     'type': 'apartment',
     'price': 170,
@@ -108,7 +108,7 @@ export const OFFERS = [
     'maxAdults': 4
   },
   {
-    'id': '6af6f711-c28d-4121-82cd-e0b462a27f00',
+    'id': '6af6f711-c4121-82cd-e0b462a27f00',
     'title': 'Beautiful & luxurious studio at great location',
     'type': 'apartment',
     'price': 100,
@@ -144,7 +144,7 @@ export const OFFERS = [
     'maxAdults': 4
   },
   {
-    'id': '6af6f711-c28d-4121-82cd-e0b462a27f00',
+    'id': '6af6f711-c28d-4121-82cd-e0b46200',
     'title': 'Beautiful & Old',
     'type': 'apartment',
     'price': 120,

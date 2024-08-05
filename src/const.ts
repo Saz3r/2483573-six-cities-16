@@ -2,7 +2,8 @@ export enum RoutesValues  {
 ROOT = "/",
 FAVORITES = "/favorites",
 LOGIN = "/login",
-OFFERS = "/offer",
+OFFERS = "/offer/:id",
+OFFER ="/offer",
 NOTFOUND = "*",
 
 }
